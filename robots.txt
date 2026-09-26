@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dublinhvacco.com/sitemap.xml
